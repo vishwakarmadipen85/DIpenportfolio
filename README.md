@@ -2,8 +2,6 @@
 
 A modern, interactive developer portfolio showcasing AI/ML projects and full-stack development skills.
 
-![Portfolio Preview](https://dipenvishportfolio.netlify.app/assets/seo/og-image.png)
-
 ## 🌐 Live Demo
 
 **[dipenvishportfolio.netlify.app](https://dipenvishportfolio.netlify.app/)**
