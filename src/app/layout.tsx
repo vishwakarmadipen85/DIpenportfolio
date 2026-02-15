@@ -38,6 +38,12 @@ export const metadata: Metadata = {
     description: config.description.short,
     images: [config.ogImg],
   },
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 5,
+    userScalable: true,
+  },
   robots: {
     index: true,
     follow: true,
