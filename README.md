@@ -1,14 +1,21 @@
 # 🚀 Dipen Vishwakarma - Portfolio
 
-A modern, interactive developer portfolio showcasing AI/ML projects and full-stack development skills.
+<div align="center">
 
-## 🌐 Live Demo
+### 🌐 **[VIEW LIVE PORTFOLIO →](https://dipenvishportfolio.netlify.app/)**
 
-**[dipenvishportfolio.netlify.app](https://dipenvishportfolio.netlify.app/)**
+*Interactive AI/ML Developer Portfolio with 3D Elements & Modern Animations*
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://dipenvishportfolio.netlify.app/)
+
+</div>
 
 ---
 
+A modern, interactive developer portfolio showcasing AI/ML projects and full-stack development skills.
+
 ## ✨ Features
+
 
 - **🎨 Interactive UI**: Typing animations, particle cursor trail, scroll progress bar
 - **🌓 Dark/Light Mode**: Seamless theme switching with persistence
